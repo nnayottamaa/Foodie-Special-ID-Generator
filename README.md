@@ -26,3 +26,5 @@ Total karakter menyesuaikan panjang nama makanan yang diinput.
 8. **M** — mengambil huruf pertama dari setiap kata pada `Makanan` dengan mendeteksi karakter yang berada setelah spasi menggunakan `for` dan `if`.
 9. Kedelapan bagian di atas digabungkan secara berurutan lewat `sprintf()` menjadi satu ID final.
 
+# Hasil Running Code
+<img width="959" height="505" alt="Screenshot 2026-09-26 104233" src="https://github.com/nnayottamaa/Foodie-Special-ID-Generator/blob/main/Screenshot%202026-09-27%20150041.png" />
